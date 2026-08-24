@@ -1,0 +1,6 @@
+{
+  "name": "Dolly Di Birthday Surprise",
+  "description": "A whimsical baby pink birthday celebration and memory scrapbook website for Dolly Di featuring interactive photo galleries, secret passcode gate, pookie cartoons, and heartwarming sibling moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
