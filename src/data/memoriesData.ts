@@ -62,7 +62,7 @@ export const GORGEOUS_ELEMENTS: ChemistryElement[] = [
 export const SLIDING_MEMORIES = [
   {
     id: 1,
-    imgSrc: "src/images/11.jpeg", // Just drop the path here!
+    imgSrc: "/11.jpeg", // Just drop the path here!
     tag: "Holi Moments",
     title: "Rang Barse Vibes 🌸",
     subtitle: "Colorful celebrations together",
@@ -71,7 +71,7 @@ export const SLIDING_MEMORIES = [
   },
   {
     id: 2,
-    imgSrc: "src/images/12.jpeg",
+    imgSrc: "/12.jpeg",
     tag: "Family Time",
     title: "Peach Outfit Look ✨",
     subtitle: "Dolly Di looking gorgeous",
@@ -80,7 +80,7 @@ export const SLIDING_MEMORIES = [
   },
   {
     id: 3,
-    imgSrc: "src/images/13.jpeg",
+    imgSrc: "/13.jpeg",
     tag: "Sibling Love",
     title: "The Ultimate Trio 💖",
     subtitle: "Smiles and good times",
@@ -89,7 +89,7 @@ export const SLIDING_MEMORIES = [
   },
   {
     id: 4,
-    imgSrc: "src/images/14.jpeg",
+    imgSrc: "/14.jpeg",
     tag: "Saree Look",
     title: "Grace in White ✨",
     subtitle: "Traditional elegance",
@@ -98,7 +98,7 @@ export const SLIDING_MEMORIES = [
   },
   {
     id: 5,
-    imgSrc: "src/images/15.jpeg",
+    imgSrc: "/15.jpeg",
     tag: "Festive Night",
     title: "Lehenga Magic 🌟",
     subtitle: "Sparkling celebrations",
@@ -107,7 +107,7 @@ export const SLIDING_MEMORIES = [
   },
   {
     id: 6,
-    imgSrc: "src/images/16.jpeg",
+    imgSrc: "/16.jpeg",
     tag: "Mom & Daughter",
     title: "Special Bond 💕",
     subtitle: "Heartwarming moments",
@@ -116,7 +116,7 @@ export const SLIDING_MEMORIES = [
   },
   {
     id: 7,
-    imgSrc: "src/images/17.jpeg",
+    imgSrc: "/17.jpeg",
     tag: "Colorful Vibes",
     title: "Holi Memories 🎨",
     subtitle: "Playful colours",
@@ -125,7 +125,7 @@ export const SLIDING_MEMORIES = [
   },
   {
     id: 8,
-    imgSrc: "src/images/18.jpeg",
+    imgSrc: "/18.jpeg",
     tag: "Portrait",
     title: "Traditional Glam 🌸",
     subtitle: "Stunning aesthetic",
@@ -134,7 +134,7 @@ export const SLIDING_MEMORIES = [
   },
   {
     id: 9,
-    imgSrc: "src/images/19.jpeg",
+    imgSrc: "/19.jpeg",
     tag: "Mirror Selfie",
     title: "Casual Chic ✨",
     subtitle: "Everyday style",
@@ -145,7 +145,7 @@ export const SLIDING_MEMORIES = [
 export const ROAST_MEMORIES = [
   {
     id: "20",
-    imgSrc: "src/images/20.jpeg",
+    imgSrc: "/20.jpeg",
     title: "The Morning Vibe Check",
     memeComment: "Smiling through the morning tiredness!",
     sticker: "Caught in 4K 📸",
@@ -153,7 +153,7 @@ export const ROAST_MEMORIES = [
   },
   {
     id: "21",
-    imgSrc: "src/images/21.jpeg",
+    imgSrc: "/21.jpeg",
     title: "Sheet Mask & Head Massage",
     memeComment: "Ultimate self-care session with Mom styling hair!",
     sticker: "Spa Mode 💅",
@@ -161,7 +161,7 @@ export const ROAST_MEMORIES = [
   },
   {
     id: "22",
-    imgSrc: "src/images/22.jpeg",
+    imgSrc: "/22.jpeg",
     title: "Midnight Snack Attack",
     memeComment: "Caught mid-bite on a video call!",
     sticker: "Snack Police 🚨",
@@ -169,7 +169,7 @@ export const ROAST_MEMORIES = [
   },
   {
     id: "23",
-    imgSrc: "src/images/23.jpeg",
+    imgSrc: "/23.jpeg",
     title: "Video Call Countdown",
     memeComment: "Showing 5 fingers for absolute no reason 😂",
     sticker: "Confused 🌀",
@@ -177,7 +177,7 @@ export const ROAST_MEMORIES = [
   },
   {
     id: "24",
-    imgSrc: "src/images/24.jpeg",
+    imgSrc: "/24.jpeg",
     title: "Blue Tee Aesthetic",
     memeComment: "Looking calm before the storm of sibling teasing.",
     sticker: "Innocent 😇",
@@ -185,7 +185,7 @@ export const ROAST_MEMORIES = [
   },
   {
     id: "25",
-    imgSrc: "src/images/25.jpeg",
+    imgSrc: "/25.jpeg",
     title: "Taking a Selfie of a Selfie",
     memeComment: "Inception level photography skills right here.",
     sticker: "Genius 🧠",
@@ -193,7 +193,7 @@ export const ROAST_MEMORIES = [
   },
   {
     id: "26",
-    imgSrc: "src/images/26.jpeg",
+    imgSrc: "/26.jpeg",
     title: "Bedtime Chill",
     memeComment: "Relaxing and talking on video call.",
     sticker: "Cozy 🛏️",
@@ -201,7 +201,7 @@ export const ROAST_MEMORIES = [
   },
   {
     id: "27",
-    imgSrc: "src/images/27.jpeg",
+    imgSrc: "/27.jpeg",
     title: "Warm Hugs with Mom",
     memeComment: "Wholesome moments of pure laughter and love.",
     sticker: "Wholesome 💖",
@@ -209,7 +209,7 @@ export const ROAST_MEMORIES = [
   },
   {
     id: "28",
-    imgSrc: "src/images/28.jpeg",
+    imgSrc: "/28.jpeg",
     title: "Vintage Printed Portrait",
     memeComment: "Classic old-school framed aesthetic look!",
     sticker: "Retro ✨",
@@ -217,7 +217,7 @@ export const ROAST_MEMORIES = [
   },
   {
     id: "29",
-    imgSrc: "src/images/29.jpeg",
+    imgSrc: "/29.jpeg",
     title: "Pink Tee Bow Vibes",
     memeComment: "Cute little pink bows and sleepy eyes.",
     sticker: "Pookie 🎀",

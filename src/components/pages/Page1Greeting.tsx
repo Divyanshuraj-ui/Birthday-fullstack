@@ -96,7 +96,7 @@ export const Page1Greeting: React.FC<Page1Props> = ({ onNext }) => {
         
         {/* Direct Image Implementation */}
         <img
-          src="src/images/123.jpeg"
+          src="123.jpeg"
           alt="Dolly Di - Birthday Queen"
           className="w-full h-full object-cover object-center"
         />

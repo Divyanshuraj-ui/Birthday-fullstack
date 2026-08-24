@@ -151,7 +151,7 @@ export const Page2Gorgeous: React.FC<Page2Props> = ({ onNext, onPrev }) => {
             <div className="bg-white/85 backdrop-blur-md p-5 pb-6 rounded-[36px] shadow-sm border border-pink-100 rotate[-1deg] group-hover:rotate-0 transition-transform duration-300">
               <div className="relative aspect-4/3 rounded-3xl overflow-hidden bg-pink-50 border border-pink-200/80">
                 <img
-                  src="src/images/12.jpeg"
+                  src="/12.jpeg"
                   alt="Dolly Di in Peach Outfit"
                   className="w-full h-full object-cover object-center"
                   />
@@ -195,7 +195,7 @@ export const Page2Gorgeous: React.FC<Page2Props> = ({ onNext, onPrev }) => {
             <div className="bg-white/85 backdrop-blur-md p-5 pb-6 rounded-[36px] shadow-sm border border-pink-100 rotate-1 group-hover:rotate-0 transition-transform duration-300">
               <div className="relative aspect-4/3 rounded-3xl overflow-hidden bg-pink-50 border border-pink-200/80">
                 <img
-                  src="src/images/18.jpeg"
+                  src="18.jpeg"
                   alt="Dolly Di in Peach Outfit"
                   className="w-full h-full object-cover object-center"
                   />
